@@ -1,0 +1,19 @@
+.video-item{
+    display: flex !important;
+    align-items: center !important;
+    cursor: pointer;
+    /* width: 50%; */
+}
+
+.video-item img{
+    max-width: 180px;
+}
+
+.ui.list>.item>img.image{
+    max-width: 180px;
+}
+
+/* .header{
+    height: 100%;
+    width: 100%;
+} */
